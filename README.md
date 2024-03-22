@@ -1,2 +1,2 @@
-# challanges
+# challenges
 daily challenges 
